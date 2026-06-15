@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Van Nguyen Thi 👋
 
-<!--
-**vanngthi/vanngthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Researcher & AI Engineer focused on Multimodal AI, NLP, Computer Vision, and Large Language Models.
 
-Here are some ideas to get you started:
+## Research Interests
+- Vision-Language Models (VLMs)
+- Large Language Models (LLMs)
+- Multimodal Learning
+- AI Agents & AGI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+📄 Resume: [CV](https://github.com/vanngthi/resume)
+
+🤗 Hugging Face: https://huggingface.co/vannt
+
+🏆 Kaggle: https://www.kaggle.com/vunnguyen
+
+💼 LinkedIn: https://www.linkedin.com/in/vanngthi
