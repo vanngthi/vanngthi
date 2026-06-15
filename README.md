@@ -1,6 +1,6 @@
 # Hi, I'm Van Nguyen Thi 👋
 
-AI Researcher & AI Engineer focused on Multimodal AI, NLP, Computer Vision, and Large Language Models.
+AI Researcher & AI Engineer focused on Multimodal AI, NLP, Large Language Models, and Computer Vision.
 
 ## Research Interests
 - Vision-Language Models (VLMs)
